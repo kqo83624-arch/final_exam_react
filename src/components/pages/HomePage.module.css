@@ -1,0 +1,33 @@
+*{
+    font-family: 'Montserrat', 'Poppins', sans-serif;
+}
+
+.header {
+    background-color: #F96302;
+    justify-content: end;
+    align-items: center;
+    display: flex;
+    color: white;  
+
+}
+.fake {
+    margin-right: 500px;
+}
+.nav {
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+.ShopButton {
+    color: black;
+    text-align: center;
+    display: inline-block;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-right: 330px;
+}
+hover .ShopButton {
+    background-color: #F96302;
+    color: white;
+}

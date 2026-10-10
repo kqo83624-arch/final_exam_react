@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.head {
+    display: flex;
+    justify-content: end;
+    background-color: orange;
+    color: white;
+    width: 100%;
+}
+.name {
+    margin-right: 650px;
+}
+.nav_link {
+    margin-right: 40px;
+    margin-top: 25px;
+}
+.shop {
+    margin-top: 25px;
+    margin-right: 100px;
+}
+.What_We_Offer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 50px;
+}
+.h1 {
+    text-align: center;
+    margin-top: 50px;
+}
+.item_title {
+    width: 350px;
+}
+.item {
+    margin-left: 20px;
+}
+.price {
+    color: red;
+    font-weight: bold;
+}
+.oldPrice {
+    margin-left: 50px;
+    color: gray;
+    text-decoration: line-through;
+}
+.product {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    gap: 50px;
+}
+img {
+    background-color: white;
+    border-radius: 10px;
+}
+.footer {
+    background-color: #20242B;
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+}

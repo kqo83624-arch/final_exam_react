@@ -1,0 +1,4 @@
+GET /v1/user/profile HTTP/1.1
+Host: ://yourdomain.com
+Authorization: Bearer <your_access_token_here>
+Content-Type: application/json
